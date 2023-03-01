@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.notification-container {
+  padding: 25px;
+  margin: 10px;
+  border: 1px solid #475569;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.close {
+  font-size: 25px;
+}
